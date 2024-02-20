@@ -17,17 +17,16 @@ We have been provided with a leads dataset from the past with around 9000 data p
 The dataset and data dictionary are uploaded. 
 
 ## Steps Followed
-- Reading Data
-- Cleaning Data
-- EDA
-- Creating Dummy
-- Splitting data into train and test set
-- Building Model
-- Making Predictions
-- Model Evaluation
-- ROC Curve
-- Prediction on test set
-- Specificity & Sensitivity
+- Checking data sanity
+- Data preparation and cleaning
+- Data visualization through EDA
+- Dummy creation
+- Scaling of variables
+- Feature selection using RFE
+- Model optimization.
+- Detecting specificity, sensitivity and accuracy of the model.
+- Finding optimal probability cut off point
+- Testing the model
 
 ## Goals of the Case Study
 
